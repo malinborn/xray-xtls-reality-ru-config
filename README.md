@@ -8,7 +8,7 @@ ___
 ・・・・・・・・・**www**
 
 
-![connection scheme](https://github.com/malinborn/xray-xtls-reality-ru-config/raw/main/media/image.png)
+![connection scheme](https://github.com/malinborn/xray-xtls-reality-ru-config/blob/main/media/connection_scheme.png)
 
 
 ___
