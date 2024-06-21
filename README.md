@@ -1,8 +1,8 @@
-
+### Материал представлен исключительно в целях ознакомления для работы с технологией Vless Reality и не предназначен для обхода блокировок
 ___
 ### Схема подключения
 
-![connection scheme](https://github.com/malinborn/xray-xtls-reality-ru-config/blob/main/media/connection_scheme.png)
+![connection scheme](https://github.com/malinborn/xray-xtls-reality-ru-config/blob/main/media/scheme.png)
 
 ___
 ### Общая информация
