@@ -1,15 +1,8 @@
 
 ___
 ### Схема подключения
-・・・・・・{**foreign_proxyN**} ➡️ **www**
-・・・・・・・・・↗️
-{**client1**} ➡️ {**domestic_proxy**} ➡️ {**foreign_proxy1**} ➡️ **www**
-{**clientN**} ↗️・・・・↘️
-・・・・・・・・・**www**
-
 
 ![connection scheme](https://github.com/malinborn/xray-xtls-reality-ru-config/blob/main/media/connection_scheme.png)
-
 
 ___
 ### Общая информация
