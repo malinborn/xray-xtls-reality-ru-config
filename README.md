@@ -6,6 +6,11 @@ ___
 {**client1**} ➡️ {**domestic_proxy**} ➡️ {**foreign_proxy1**} ➡️ **www**
 {**clientN**} ↗️・・・・↘️
 ・・・・・・・・・**www**
+
+
+![connection scheme](https://github.com/malinborn/xray-xtls-reality-ru-config/raw/main/media/image.png)
+
+
 ___
 ### Общая информация
 В первую очередь, нам нужно сделать несколько прокси, как минимум:
