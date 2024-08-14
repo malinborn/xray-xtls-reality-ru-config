@@ -213,22 +213,6 @@ micro /usr/local/etc/xray/config.json
       {
       	"type": "field",
       	"domain": [
-      	    "youtube.com", 
-      	    "youtu.be",
-      	    "googlevideo.com"
-      	],
-      	"outboundTag": "direct"
-      },
-      {
-      	"type": "field",
-      	"domain": [
-      		"google.com"
-      	],
-      	"outboundTag": "direct"
-      },
-      {
-      	"type": "field",
-      	"domain": [
       		"whatsmyip.org"
       	],
       	"outboundTag": "direct"
