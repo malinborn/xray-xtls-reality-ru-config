@@ -342,6 +342,6 @@ ___
 	- Nekoray — https://github.com/MatsuriDayo/nekoray/releases
 	- Переключи программу на использование движка sing-box в `Basic Settings` -> `Core`
 	- Зайди в `Server` -> `New profile` и заполни по аналогии с конфигом.
-        - В nekoray также нужно нажать галочку `System Proxy`
+	- В nekoray также нужно нажать галочку `System Proxy`
 - **Android**: 
 	- HiddifyNG — https://github.com/hiddify/HiddifyNG
