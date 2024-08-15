@@ -339,8 +339,9 @@ ___
 - **Macos, IOS**:
 	- FoXray, его можно скачать в AppStore. Настройка подключения интуитивно понятна, тк вы эти значения уже подставляли в конфиг, они даже называются так же. 
 - **Windows, linux**: 
-	- Nekobox — https://github.com/MatsuriDayo/nekoray/releases
+	- Nekoray — https://github.com/MatsuriDayo/nekoray/releases
 	- Переключи программу на использование движка sing-box в `Basic Settings` -> `Core`
 	- Зайди в `Server` -> `New profile` и заполни по аналогии с конфигом.
+        - В nekoray также нужно нажать галочку `System Proxy`
 - **Android**: 
 	- HiddifyNG — https://github.com/hiddify/HiddifyNG
